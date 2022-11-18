@@ -1,3 +1,9 @@
 # Nix
 .direnv
 result
+
+# env
+.env
+
+# reult
+followings.json
